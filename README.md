@@ -34,15 +34,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **🔗 LinkX** | Full Stack URL Shortener built using React, TypeScript, Express & MongoDB |
-| **📦 Inventory Tracker** | Inventory Management System with Authentication & CRUD |
-| **🤖 WhatsApp AI Bot** | AI-powered chatbot using Node.js & OpenAI APIs |
-
----
 
 # 📊 GitHub Stats
 
